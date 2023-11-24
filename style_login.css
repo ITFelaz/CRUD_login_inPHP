@@ -1,0 +1,70 @@
+.hello {
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    width: 600px;	height: 530px; /* Размеры */
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+        }
+
+.hell {
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    width: 300px;	height: 200px; /* Размеры */
+    outline: 2px solid #000; /* Чёрная рамка */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+}
+
+.entranceField{
+    height: 20px;
+    margin-bottom   : 12px;
+}
+
+h3 {
+    text-align: left;
+    margin-left: 70px;
+    color: red;
+}
+
+h2 {
+    margin-top: 11px;
+}
+
+button {
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    
+}
+
+.entrance {
+    margin-bottom: 20px;
+}
+
+.reg {
+    margin-top: 15px;
+}
+
+.g-recaptcha {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.Recover{
+    width: 500px;
+    height: 70px;
+    margin: auto;
+    
+}
+
+.btn {
+    margin: 15px;
+    height: 60px;
+}
+
+.newpass {
+    margin: 15px;
+}
